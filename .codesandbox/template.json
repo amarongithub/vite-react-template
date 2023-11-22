@@ -1,0 +1,7 @@
+{
+  "title": "Vite React Template",
+  "description": "React with Vite using npm create vite@latest --template react",
+  "iconUrl": "https://vitejs.dev/logo.svg",
+  "tags": ["react", "vite"],
+  "published": true
+}
